@@ -6,7 +6,6 @@ ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ S
 
 **University of Macau, SIAT CAS, Southern University of Science and Technology, Guangdong University of Technology**
 
-2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
 
 ## Weights
 
