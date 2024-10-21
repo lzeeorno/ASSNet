@@ -38,7 +38,8 @@ pip install torch==2.0.0+cu118 torchvision==0.15.1+cu118 torchaudio==2.0.1+cu118
 ## 1. Prepare the dataset
 
 ### LiTS2017 datasets
-- The LiTS2017 datasets can be downloaded here: {[LiTS2017](https://competitions.codalab.org/competitions/17094)}. 
+- The LiTS2017 datasets can be downloaded here: {[LiTS2017](https://competitions.codalab.org/competitions/17094)}.
+- The Synapse dataset can be downloaded here: {[Synapse multi-organ](https://www.synapse.org/Synapse:syn3193805/wiki/217789)}.
 
 - After downloading the datasets, you should run ./data_prepare/preprocess_lits2017_png.py to convert .nii files into .png files for training. (Save the downloaded LiTS2017 datasets in the data folder in the following format.)
 
