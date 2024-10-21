@@ -599,7 +599,7 @@ def main():
 
 if __name__ == '__main__':
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-    seed_value = 3407
+    seed_value = 20241017
     # seed_value = 2014
     np.random.seed(seed_value)
     random.seed(seed_value)
